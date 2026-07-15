@@ -19,12 +19,12 @@ Based on the dashboard analysis of the dataset:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - BI Tool: Power BI Desktop (Data Visualization & Dashboard Design)
-- Data Source: Supermarket Sales Dataset (CSV format containing 1,000 transaction records)
+- Data Source: Supermarket Sales Dataset (CSV format )
 - Data Transformation: Power Query (for data cleaning, type conversions, and modeling)
 
-## 📂 Project Structure
+##  Project Structure
 - Supermarket_Sales_Dashboard.pbix - The actual Power BI project file (Download and open in Power BI Desktop).
 - supermarket_sales - Sheet1.csv - The raw dataset used for this project.
 - dashboard_screenshot.jpg - Image preview of the dashboard.
